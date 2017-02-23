@@ -2,7 +2,7 @@
 
 This is a project which can recognize hand gestures.
 
-The key parts in this project is:
+The key parts in this project are:
 
 1. Detect human skin from the video frames.
 2. Draw the contour of hands.
